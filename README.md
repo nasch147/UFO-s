@@ -10,7 +10,7 @@ This was acheived through several html and javascript conventions. First, an htm
 ![all data](Resources/images/unfiltered.png)
 The image above displays our site with the dynamic table but with no filters having been applied to our table. As is evident in the image, we are now able to filter our table by five categories; date, city, state, country, and shape. 
 
-![filtered data](Resources/images/filtered.png
+![filtered data](Resources/images/filtered.png)
 The image above displays our data edited to only show sightings in Oregon. Each time we enter a value for any and/or many filters, our table will automatically filter itself on the given parameters. 
 
 ## Summary
